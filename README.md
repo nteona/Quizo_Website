@@ -1,6 +1,8 @@
 # Quizo_Website
 Application ‘Quizo’
+
 Designed a logo: (quizologo.jpg) and added a background(pic.jpg) 
+
 For the logo design, I used Adobe Illustrator, since it can manipulate figures as vectors. For the website design, or the frontend I used HTML,
 Bootstrap, CSS and JavaScript. The requirements given are all met, I designed a functional website, which users can register and log in, an 
 identifier for the student and the teacher in the registration form. In addition, a teacher is able to add, update and delete a quiz or 
